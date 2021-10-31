@@ -1,0 +1,35 @@
+body{
+    background-color: beige;
+    text-align: center;
+}
+li{
+    list-style-type: none;
+    font-style: oblique;
+    font-size: large;
+    font-family: Verdana;
+    color: green;
+}
+h2{
+    text-decoration: aqua;
+    font-size: larger;
+    font-family: Calibri;
+}
+h1{
+    font-style: italic;
+    font-size: xx-large;
+    font-family: "Yu Gothic UI";
+}
+h3{
+    list-style-type: none;
+    font-style: oblique;
+    font-size: large;
+    font-family: Verdana;
+    color: blue;
+}
+#individ{
+    list-style-type: disc;
+    font-style: oblique;
+    font-size: large;
+    font-family: Verdana;
+    text-align: center;
+}
